@@ -21,11 +21,22 @@
    ```bash
    git clone https://github.com/harshaadeshmukh/Shabancha-shunya.git
 
-2.Install dependencies:
-   
+2. Install dependencies::
    ```bash
-      pip install -r requirements.txt
+   pip install -r requirements.txt
+
 
 3.Configure Raspberry Pi for deployment.
+
+
+
+### Usage 🎮
+Run the main script to start sign language recognition:
+   ```bash
+   python main.py
+
+
+
+
 
 
