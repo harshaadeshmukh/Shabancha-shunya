@@ -73,7 +73,7 @@ To run the gesture recognition system on a Raspberry Pi:
 2. Execute the main script:
 
    ```bash
-   python run_gesture_recognition.py
+   python main.py
    ```
 
 3. The system will process live video feed and output recognized Marathi sign language gestures. 🖐️
@@ -83,7 +83,7 @@ For training or modifying the model, refer to the scripts in the `training/` dir
 Example usage on Raspberry Pi:
 
 ```bash
-python run_gesture_recognition.py --model model.tflite --camera /dev/video0
+python main.py --model msl_model.tflite --camera /dev/video0
 ```
 
 ## Contributing 🤝
@@ -106,7 +106,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or feedback, reach out to:
 
-- Harshad Deshmukh - GitHub: @harshaadeshmukh 😊
+- Portfolio - GitHub: [Harshad Deshmukh](https://harshaadeshmukh.github.io/Portfolio/) 😊
 - Project Link: https://github.com/harshaadeshmukh/Shabancha-shunya 🌐
 
 Thank you for exploring Shabdancha Shunya! Let's work together to make communication more accessible. 💪✨
