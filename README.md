@@ -28,15 +28,8 @@
 
 3.Configure Raspberry Pi for deployment.
 
-
-
-### Usage 🎮
+### Steps 🛠️
 Run the main script to start sign language recognition:
    ```bash
    python main.py
-
-
-
-
-
 
