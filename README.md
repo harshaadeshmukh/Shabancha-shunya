@@ -25,7 +25,6 @@
    ```bash
    pip install -r requirements.txt
 
-
 3.Configure Raspberry Pi for deployment.
 
 ### Steps 🛠️
