@@ -20,4 +20,12 @@
 1. Clone this repository:
    ```bash
    git clone https://github.com/harshaadeshmukh/Shabancha-shunya.git
-  ````
+
+2.Install dependencies:
+   
+   ```bash
+      pip install -r requirements.txt
+
+3.Configure Raspberry Pi for deployment.
+
+
