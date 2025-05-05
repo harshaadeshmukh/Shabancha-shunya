@@ -132,6 +132,12 @@ Please follow PEP 8 standards and include tests or documentation updates. ✅
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 🗳️
 
+## 🙏 Sponsorship
+
+This project, **Shabdancha Shunya**, is proudly sponsored by [Vervotech](https://vervotech.com).  
+We sincerely thank them for their support in promoting accessible communication through technology.
+
+
 ## Contact 📧
 
 For questions or feedback, reach out to:
