@@ -40,6 +40,6 @@
 
 ## 🖥️ System Architecture
 
-<img src="assets/architecture.png" alt="System Architecture" width="500"/>
+<img src="assets/architecture.png" alt="System Architecture" width="300"/>
 
 [Gesture Input] → [Camera Module] → [Preprocessing] → [TFLite Model Inference] → [Marathi Letter Output]
