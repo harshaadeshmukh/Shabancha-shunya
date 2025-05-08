@@ -41,6 +41,6 @@
    
 ## 🖥️ System Architecture
 
-![System Architecture](assets/architecture.jpg)
+![System Architecture](assets/architecture.png)
 
 [Gesture Input] → [Camera Module] → [Preprocessing] → [TFLite Model Inference] → [Marathi Letter Output]
