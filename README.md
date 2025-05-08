@@ -79,12 +79,15 @@ The results of this project can be divided into two stages:
 📸 Example:
 ## 🖥️ Output on PC
 
-## 🖥️ Output on PC
-
 <div align="center">
   <img src="assets/img1.png" alt="PC Output 1" width="400" style="margin-right: 20px;"/>
   <img src="assets/img2.png" alt="PC Output 2" width="400"/>
 </div>
 
-- **Figure 4**: Output showing the Marathi sign ‘अ’ recognized and displayed on the Raspberry Pi
+
+## 🍓 Output on Raspberry Pi
+<div align="center">
+  <img src="assets/img3.jpg" alt="PC Output 1" width="400" style="margin-right: 20px;"/>
+  <img src="assets/img4.jpg" alt="PC Output 2" width="400"/>
+</div>
 
