@@ -14,14 +14,15 @@
 ## 📁 Dataset
 
 - 43 Marathi letters
-- 1000 images per letter (captured using OpenCV)
+- 1,000 images per letter (captured using OpenCV)
 - Custom-created for this project
-- Image preprocessing: resizing, normalization, background removal
+- Image preprocessing includes resizing, normalization, and background removal
 
-### Dataset Image
+### Sample Dataset Image 📸
 <div align="center">
-  <img src="assets/dataset.png" alt="PC Output 2" width="400"/>
+  <img src="assets/dataset.png" alt="Sample Dataset Image" width="400"/>
 </div>
+
 
 ## 🚀 Workflow
 
