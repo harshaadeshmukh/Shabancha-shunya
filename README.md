@@ -57,3 +57,27 @@ picamera2>=0.3.0
 tflite-runtime>=2.10.0  
 cvzone>=1.5.0
 
+
+
+## 🎯 Final Outcome
+
+The results of this project can be divided into two stages:
+
+### 🖥️ Stage 1: On PC (Training and Testing)
+
+- The model is trained using the custom Marathi sign dataset on a PC using TensorFlow and EfficientNetB0.
+- After training, predictions are tested on the PC using test gesture images.
+- Outputs are verified for accuracy, and confusion matrix/performance metrics are generated.
+
+### 🍓 Stage 2: On Raspberry Pi (Real-Time Inference)
+
+- The trained model is converted into TensorFlow Lite (.tflite) format for optimized performance.
+- The `.tflite` model is deployed on Raspberry Pi.
+- Live camera input captures hand gestures.
+- Recognized Marathi letter is displayed in real-time on the 5-inch HDMI display connected to the Pi.
+
+📸 Example:
+
+- **Figure 3**: Prediction on PC  
+- **Figure 4**: Output showing the Marathi sign ‘अ’ recognized and displayed on the Raspberry Pi
+
