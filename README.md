@@ -23,6 +23,13 @@
   <img src="assets/dataset.png" alt="Sample Dataset Image" width="400"/>
 </div>
 
+### Dataset on Hugging Face
+
+You can access the dataset for this project on Hugging Face:
+
+[Download the Marathi Sign Language Dataset from Hugging Face](https://huggingface.co/datasets/HarshadDeshmukh/Marathi-Sign-Language-Dataset)
+
+
 
 ## 🚀 Workflow
 
