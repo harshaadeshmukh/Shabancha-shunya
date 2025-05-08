@@ -41,3 +41,19 @@
 ## 🖥️ System Architecture
 
 [Gesture Input] → [Camera Module] → [Preprocessing] → [TFLite Model Inference] → [Marathi Letter Output]
+
+
+
+## 🛠️ Requirements
+
+To run this project, install the following Python packages:
+
+```bash
+opencv-python>=4.5.5  
+numpy>=1.21.0  
+tensorflow>=2.10.0  
+Pillow>=9.0.0  
+picamera2>=0.3.0  
+tflite-runtime>=2.10.0  
+cvzone>=1.5.0
+
