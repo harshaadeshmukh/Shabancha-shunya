@@ -77,7 +77,12 @@ The results of this project can be divided into two stages:
 - Recognized Marathi letter is displayed in real-time on the 5-inch HDMI display connected to the Pi.
 
 📸 Example:
+## 🖥️ Output on PC
 
-- **Figure 3**: Prediction on PC  
+<div align="center">
+  <img src="assets/img3.png" alt="PC Output 1" width="300"/>
+  <img src="assets/img4.png" alt="PC Output 2" width="300"/>
+</div>
+
 - **Figure 4**: Output showing the Marathi sign ‘अ’ recognized and displayed on the Raspberry Pi
 
