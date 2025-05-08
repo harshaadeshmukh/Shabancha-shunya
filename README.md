@@ -1,10 +1,10 @@
 # Shabdancha Shunya: A Real-Time Translator for the Deaf and Mute
----
+
 Shabdancha Shunya is a real-time sign language recognition system specifically designed for the Marathi language. It uses deep learning and computer vision to translate hand gestures into readable characters, empowering individuals from the deaf and mute community to communicate more easily.
 
 The system is powered by a custom dataset containing 43 Marathi sign language gestures, each with 1,000 images (totaling 43,000). We trained the model using EfficientNetB0, achieving a 96% accuracy rate. To ensure portability and affordability, the model was converted to TensorFlow Lite and deployed on a Raspberry Pi, enabling smooth, real-time performance on low-power devices.
 
----
+
 
 ## 🧠 Project Highlights
 
