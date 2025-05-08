@@ -93,7 +93,7 @@ The results of this project can be divided into two stages:
 - Live camera input captures hand gestures.
 - Recognized Marathi letter is displayed in real-time on the 5-inch HDMI display connected to the Pi.
 
-📸 Example:
+
 ## 🖥️ Output on PC
 
 <div align="center">
