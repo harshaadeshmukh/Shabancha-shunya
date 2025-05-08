@@ -58,7 +58,7 @@ tflite-runtime>=2.10.0
 cvzone>=1.5.0
 
 
-
+```
 ## 🎯 Final Outcome
 
 The results of this project can be divided into two stages:
