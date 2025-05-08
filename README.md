@@ -38,9 +38,8 @@
 6. **Output Display**  
    Recognized sign is displayed as corresponding Marathi letter on the screen.
 
-   
 ## 🖥️ System Architecture
 
-![System Architecture](assets/architecture.png)
+<img src="assets/architecture.png" alt="System Architecture" width="500"/>
 
 [Gesture Input] → [Camera Module] → [Preprocessing] → [TFLite Model Inference] → [Marathi Letter Output]
