@@ -104,3 +104,19 @@ The results of this project can be divided into two stages:
   <img src="assets/img4.jpg" alt="PC Output 2" width="400"/>
 </div>
 
+
+## 🌐 Future Scope
+
+- Add text-to-speech for voice output in Marathi.
+- Expand to support full sentence gestures and dynamic signs.
+- Port to Android/iOS for mobile accessibility.
+- Integrate into classrooms or government services.
+
+## 📜 License  
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments  
+Special thanks to the contributors and the open-source community for their invaluable support and resources.
+
+Feel free to explore, contribute, and make **Shabdancha Shunya** even better!
+
