@@ -18,6 +18,11 @@
 - Custom-created for this project
 - Image preprocessing: resizing, normalization, background removal
 
+# Dataset Image
+<div align="center">
+  <img src="assets/dataset.png" alt="PC Output 2" width="400"/>
+</div>
+
 ## 🚀 Workflow
 
 1. **Data Collection**  
