@@ -38,9 +38,9 @@
 6. **Output Display**  
    Recognized sign is displayed as corresponding Marathi letter on the screen.
 
+   
 ## 🖥️ System Architecture
 
-```text
-[Gesture Input] → [Camera Module] → [Preprocessing] → [TFLite Model Inference] → [Marathi Letter Output]
-![ChatGPT Image Apr 20, 2025, 01_58_59 AM](https://github.com/user-attachments/assets/64f3e323-221b-4301-bc16-bfcec8805a32)
+![System Architecture](assets/system_architecture.jpg)
 
+[Gesture Input] → [Camera Module] → [Preprocessing] → [TFLite Model Inference] → [Marathi Letter Output]
