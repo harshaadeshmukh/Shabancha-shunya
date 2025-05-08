@@ -56,9 +56,9 @@ You can access the dataset for this project on Hugging Face:
    Recognized sign is displayed as corresponding Marathi letter on the screen.
 
 ## 🖥️ System Architecture
-
+```
 [Gesture Input] → [Camera Module] → [Preprocessing] → [TFLite Model Inference] → [Marathi Letter Output]
-
+```
 
 
 ## 🛠️ Requirements
